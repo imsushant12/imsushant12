@@ -2,10 +2,10 @@
 
 <p align="center"> 
 <img align="center" alt="GIF of Me" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-</p><br>
+</p>
 
 <h3 align="center">I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a software developer with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</h3>
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat" alt="imsushant12" /></p>
 
 - 🔭 I’m currently working with **C++ and Python.**
@@ -18,6 +18,7 @@
 
 - 📫 How to reach me **sushantgaurav57@gmail.com**
 
+<br>
 <p align="center">
  <a href="https://twitter.com/_im_sushant" target="blank"><img src="https://img.shields.io/twitter/follow/_im_sushant?logo=twitter&color=orange&style=for-the-badge" alt="_im_sushant" /></a> </p>
 
