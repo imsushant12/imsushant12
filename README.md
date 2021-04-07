@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sushant-gaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sushant-gaurav" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/15053615/sushant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/15053615/sushant" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15053615/sushant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/15053615/sushant" height="30" width="40" /></a>
 <a href="https://fb.com/sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sushantgaurav57" height="30" width="40" /></a>
 <a href="https://instagram.com/_im_sushant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_im_sushant" height="30" width="40" /></a>
 <a href="https://medium.com/@sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sushantgaurav57" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 
 <h3 align="left">My Competitive Programming Profiles:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sushantgaurav57" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sushantgaurav57" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/imsushant12/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="imsushant12/profile" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sushantgaurav57" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/imsushant12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imsushant12" height="30" width="40" /></a>
