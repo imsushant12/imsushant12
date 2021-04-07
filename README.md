@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **sushantgaurav57@gmail.com**
 
+- 📄 Checkout my [Resume] (https://drive.google.com/file/d/1A04ee5rv29M2wEfywHnjAkg6YwdCARDv/view?usp=sharing)
+
 <br>
 <p align="center">
  <a href="https://twitter.com/_im_sushant" target="blank"><img src="https://img.shields.io/twitter/follow/_im_sushant?logo=twitter&color=orange&style=for-the-badge" alt="_im_sushant" /></a> </p>
