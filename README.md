@@ -55,12 +55,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="750" src="https://github-profile-trophy.vercel.app/?username=imsushant12" alt="imsushant12" /></a> </p>
-
 <h2 align="center">🎯 Github Streaks</h2>
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imsushant12&&theme=dracula&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="750" src="https://github-profile-trophy.vercel.app/?username=imsushant12" alt="imsushant12" /></a> </p>
+
+
 
 
 
