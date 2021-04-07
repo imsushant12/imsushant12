@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sushantgaurav57@gmail.com**
 
-- 📄 Checkout my [Resume] (https://drive.google.com/file/d/1A04ee5rv29M2wEfywHnjAkg6YwdCARDv/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1A04ee5rv29M2wEfywHnjAkg6YwdCARDv/view?usp=sharing)
 
 <br>
 <p align="center">
