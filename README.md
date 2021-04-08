@@ -5,8 +5,7 @@
 </p>
 
   <samp>
- <b>
-I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</b>
+I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.
   </samp>
 
 <!--
@@ -53,15 +52,8 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
 </p>
 
 
-<p align = "center">
-  <h2 align="center">Github Statistics :octocat:</h2><br><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=imsushant12&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&layout=compact&theme=midnight-purple" alt="Most Used Languages"/>
-  <br><br>
-</p>
-
 <h2 align="center">Github Statistics :octocat:</h2>
-<p align="left">
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsushant12&theme=midnight-purple&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -73,7 +65,6 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imsushant12&&theme=dracula&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 
 <p align="center"> <img src = "https://github-profile-trophy.vercel.app/?username=imsushant12&theme=dracula&margin-w=5&no-frame=true" alt="imsushant12"/></p>
 
