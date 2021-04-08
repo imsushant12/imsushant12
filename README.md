@@ -3,10 +3,8 @@
 <p align="center"> 
 <img align="center" alt="GIF of Me" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 </p>
-<p align="center"><b>I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</b></p>
 
-<!--
-<h3 align="center"><b>I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</b></h3>-->
+<h3 align="center"><b>I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</b></h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat" alt="imsushant12" /></p>
 
@@ -49,7 +47,7 @@
 </p>
 
 
-<h2 align="center">Github Statistics :octocat:</h2>
+<h2 align="center">:octocat: Github Statistics :</h2>
 <p align="center">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=imsushant12&theme=midnight-purple&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
