@@ -4,7 +4,13 @@
 <img align="center" alt="GIF of Me" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 </p>
 
-<h3 align="center"><b>I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</b></h3>
+  <samp>
+ <b>
+I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</b>
+  </samp>
+
+<!--
+<h3 align="center"><b>I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</b></h3>-->
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat" alt="imsushant12" /></p>
 
@@ -17,7 +23,7 @@
 
 - 💬 Ask me about anything related to tech. I would love to share my thoughts.
 
-- 📫 How to reach me --> **sushantgaurav57@gmail.com**
+- 📫 Reach out to me at **sushantgaurav57@gmail.com**
 
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1A04ee5rv29M2wEfywHnjAkg6YwdCARDv/view?usp=sharing)
 
@@ -46,14 +52,21 @@
 <a href="https://www.leetcode.com/sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sushantgaurav57" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Github Statistics :octocat::</h2>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsushant12&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align = "center">
+  <h2 align="center">Github Statistics :octocat:</h2><br><br>
+  <img src = "https://github-readme-stats.vercel.app/api?username=imsushant12&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Status"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&layout=compact&theme=midnight-purple" alt="Most Used Languages"/>
+  <br><br>
 </p>
 
-<h2 align="center">Most used Languages</h2>
+<h2 align="center">Github Statistics :octocat:</h2>
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsushant12&theme=midnight-purple&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">🎯 Github Streaks</h2>
