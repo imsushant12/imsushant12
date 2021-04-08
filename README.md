@@ -12,7 +12,7 @@
   <samp>
 I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</samp>
 </p>
-
+<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat" alt="imsushant12" /></p>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
