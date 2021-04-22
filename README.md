@@ -10,7 +10,7 @@
 <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Who am I?</h2>
 <p align="center">
   <samp>
-I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> who love creating major and minor projects. I am a Technical Content Writer Intern at GeeksForGeeks and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</samp>
+I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> who loves to create major and minor projects. I am a Technical Content Writer Intern at <a href="https://auth.geeksforgeeks.org/user/imsushant12/articles" target="_blank" style="text-decoration:none">GeeksForGeeks</a> and a Participant contributing to Open-source projects in <a href="https://gssoc.girlscript.tech/profile.html?id=imsushant12" target="_blank" style="text-decoration:none">GSSoc'21</a>. I am also a <a href="https://studentambassadors.microsoft.com/en-US/profile/69370" target="_blank" style="text-decoration:none">Microsoft</a> Learn Student Ambassador - βeta. I am a Software Developer with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</samp>
 </p>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat" alt="imsushant12" /></p>
@@ -20,7 +20,7 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
-- 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12/articles)
+- 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12/articles) , [Hashnode](https://imsushant.hashnode.dev/) and [Medium](https://sushantgaurav57.medium.com/)
 
 - 💬 Ask me about anything related to tech. I would love to share my thoughts.
 
