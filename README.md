@@ -74,24 +74,20 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
 <a href="https://www.codechef.com/users/imsushant12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imsushant12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sushantgaurav57" height="30" width="40" /></a>
 </p>
-
-
+  
+---
+<p>
 <h2 align="center">:octocat: Github Statistics </h2>
-<p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=imsushant12&theme=midnight-purple&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+|🎯 Github Streaks|💻Most Used Languages|
+|-----------------|----------------------|
+|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=imsushant12&theme=midnight-purple&hide_border=true)](https://github.com/imsushant12)|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/imsushant12)
+|🏆Trophies |📊 Github Stats|
+|[![Trophies](https://github-profile-trophy.vercel.app/?username=imsushant12&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/imsushant12)|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsushant12&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/imsushant12)
 </p>
+<hr>
 
-<p align="center">
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<h2 align="center">🎯 Github Streaks</h2>
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imsushant12&theme=midnight-purple&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center"> <img src = "https://github-profile-trophy.vercel.app/?username=imsushant12&theme=juicyfresh&margin-w=0&no-frame=false" alt="imsushant12"/></p>
-
+  
 <div align="center">
  <br>
  <p align="centre"><b> Here is a random joke that'll make you laugh!</b></p>
