@@ -75,7 +75,8 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
 <a href="https://www.leetcode.com/sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sushantgaurav57" height="30" width="40" /></a>
 </p>
   
----
+----
+  
 <p>
 <h2 align="center">:octocat: Github Statistics </h2>
 
@@ -85,11 +86,11 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
 |🏆Trophies |📊 Github Stats|
 |[![Trophies](https://github-profile-trophy.vercel.app/?username=imsushant12&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/imsushant12)|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsushant12&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/imsushant12)
 </p>
-<hr>
+
 
   
 <div align="center">
- <br>
+<br>
  <p align="centre"><b> Here is a random joke that'll make you laugh!</b></p>
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
