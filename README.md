@@ -88,7 +88,7 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
 
 
   
-<div align="center">
+<!-- <div align="center">
 <br>
  <p align="centre"><b> Here is a random joke that'll make you laugh!</b></p>
  
@@ -96,7 +96,7 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
  
 <details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 <br>
-</div>
+</div> -->
 
 
 
