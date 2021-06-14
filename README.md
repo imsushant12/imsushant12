@@ -80,8 +80,8 @@ I'm a Second Year student at Lakshmi Narain College of Technology, pursuing my B
 <p>
 <h2 align="center">:octocat: Github Statistics </h2>
 
-|🎯 Github Streaks and Trophies 🏆|💻Most Used Languages and Stats 📈|
-|----------------------------------|-----------------------------------|
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/imsushant12)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=imsushant12&theme=midnight-purple&hide_border=true)](https://github.com/imsushant12)
 |[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsushant12&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/imsushant12)|[![Trophies](https://github-profile-trophy.vercel.app/?username=imsushant12&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/imsushant12)
 </p>
