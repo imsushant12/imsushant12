@@ -74,7 +74,7 @@ I am a <a href="https://studentambassadors.microsoft.com/en-US/profile/69370" ta
 
 <h3 align="left">My Competitive Programming Profiles:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sushantgaurav57" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/imsushant12/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sushantgaurav57" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sushantgaurav57" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sushantgaurav57" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sushantgaurav57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sushantgaurav57" height="30" width="40" /></a>
