@@ -3,19 +3,14 @@
 <p align="center"> 
 <img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
 </p>
-<!--https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif-->
-
-<!---
-<h3 align="center"><b>I'm a Senior Year student at Lakshmi Narain College of Technology, pursuing my Bachelors in Computer Science and Engineering. I am a pragmatic programmer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who love creating major and minor projects. I am a Technical Content Writer Intern at Scaler, and GeeksForGeeks. I have been and a Participant contributing to Open-source projects in GSSoC'21. I am also a Microsoft Learn Student Ambassador - βeta. I am a Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with an experience in C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development.</b></h3>
-<br>-->
 
 <h1 align="center">Who Am I? <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="40px"></h1>
   
 <p align="justify">
 <samp>
-I'm a Senior Year Student currently undertaking my bachelor's in Computer Science and Engineering. I am a pragmatic programmer who loves to create major and minor projects. 
-I am currently working as a freelance Technical Content Writer at Scaler. I have been a Technical Content Writer Intern at <a href="https://auth.geeksforgeeks.org/user/imsushant12/articles" target="_blank" style="text-decoration:none">GeeksForGeeks</a>. Besides Development and Content Writing, I constantly work on Open-Source and I have been a participant in various Open-Source Initiatives such as <a href="https://gssoc.girlscript.tech/profile.html?id=imsushant12" target="_blank" style="text-decoration:none">GSSoC'21</a>, GWoC'21, Hacktober Fest, etc.
-I am a <a href="https://studentambassadors.microsoft.com/en-US/profile/69370" target="_blank" style="text-decoration:none">Microsoft</a> Learn Student Ambassador, Agora Student Ambassador. I am a Software Developer with experience in various programming languages, Databases, Web Development, DSA, and Technical Content Writing.
+I am Sushant Gaurav. I am an enthusiastic and goal-driven Senior Year Student at Lakshmi Narain College of Technology Excellence pursuing my bachelor's in Computer Science and Engineering. Following my passion for technology, I have never kept myself restricted to the assigned course's curriculum; instead, I always look to explore and learn about new technologies around me. I'm currently working as Intelligent Automation Engineer at **PwC, India**. I have experience in Development and Content Writing. I have brainstormed and delivered more than 250 articles on @scaleracademy platform and more than 50 articles on @geeksforgeeks platform. I constantly work on open-source, and I have been a Project Administrator, Mentor, and Participant in various open-source initiatives. <br><br> Being a wordsmith who loves playing with words, I worked for organizations like Scaler and GeeksForGeeks. I documented my projects, learnings, and knowledge on various technical topics like C/C++, Python, Front end development, DBMS, OS, and open-source development to give back to my community and share the knowledge with those who desire to learn.
+I'm a Senior Year Student currently undertaking my bachelor's in Computer Science and Engineering. I am a pragmatic programmer who loves to create major and minor projects. <br><br>
+As a community-driven individual sharing responsibility to serve and upskill the technical community, I joined the prestigious <a href="https://studentambassadors.microsoft.com/en-US/profile/69370" target="_blank" style="text-decoration:none">Microsoft</a> Learn Student Ambassadors program, reached to Beta level, conducted 10+ events on topics like Azure and its technologies, cloud computing, and mentored 100s of students via other platforms as well like Hack TX. 
 </samp>
 </p>
   
@@ -27,13 +22,13 @@ I am a <a href="https://studentambassadors.microsoft.com/en-US/profile/69370" ta
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
-- 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12/articles), [Dev](https://dev.to/imsushant12), [HashNode](https://imsushant.hashnode.dev/) and [Medium](https://medium.com/@sushantgaurav57)
+- 📝 I regularly write articles on Scaler Topics, [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12/articles), [Dev](https://dev.to/imsushant12), [HashNode](https://imsushant.hashnode.dev/) and [Medium](https://medium.com/@sushantgaurav57)
 
 - 💬 Ask me about anything related to tech. I would love to share my thoughts.
 
 - 📫 Reach out to me at **sushantgaurav57@gmail.com**
 
-- 📄 Download my [Resume](https://drive.google.com/file/d/1EVN9Dq2H9-O263XOcyYmPWMJo1pMNC7E/view)
+- 📄 Download my [Resume](https://drive.google.com/file/d/1GEvO7rftAdXOmmmxp1BauRb3a0zVuCfW/view?usp=sharing)
 
 <br>
 <p align="center">
