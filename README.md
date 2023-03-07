@@ -8,8 +8,7 @@
   
 <p align="justify">
 <samp>
-I am an enthusiastic and goal-driven Senior Year Student at Lakshmi Narain College of Technology Excellence pursuing my bachelor's in Computer Science and Engineering. Following my passion for technology, I have never kept myself restricted to the assigned course's curriculum; instead, I always look to explore and learn about new technologies around me. I'm currently working as Intelligent Automation Engineer at **PwC, India**. I have experience in Development and Content Writing. I have brainstormed and delivered more than 250 articles on @scaleracademy platform and more than 50 articles on @geeksforgeeks platform. I constantly work on open-source, and I have been a Project Administrator, Mentor, and Participant in various open-source initiatives. <br><br> Being a wordsmith who loves playing with words, I worked for organizations like Scaler and GeeksForGeeks. I documented my projects, learnings, and knowledge on various technical topics like C/C++, Python, Front end development, DBMS, OS, and open-source development to give back to my community and share the knowledge with those who desire to learn.
-I'm a Senior Year Student currently undertaking my bachelor's in Computer Science and Engineering. I am a pragmatic programmer who loves to create major and minor projects. <br><br>
+I am an enthusiastic and goal-driven Senior Year Student at Lakshmi Narain College of Technology Excellence pursuing my bachelor's in Computer Science and Engineering. Following my passion for technology, I have never kept myself restricted to the assigned course's curriculum; instead, I always look to explore and learn about new technologies around me. I'm currently working as an Intelligent Automation Engineer at <b>PwC, India</b>. I have experience in Development and Content Writing. <br><br> Being a wordsmith who loves playing with words, I worked for organizations like Scaler and GeeksForGeeks. I documented my projects, learnings, and knowledge on various technical topics like C/C++, Python, Front end development, DBMS, OS, and open-source development to give back to my community and share the knowledge with those who desire to learn. I have brainstormed and delivered more than 250 articles on <b>Scaler Academy</b> platform and more than 50 articles on the <b>GeeksForGeeks</b> platform. I constantly work on open-source, and I have been a Project Administrator, Mentor, and Participant in various open-source initiatives. <br><br>
 As a community-driven individual sharing responsibility to serve and upskill the technical community, I joined the prestigious <a href="https://studentambassadors.microsoft.com/en-US/profile/69370" target="_blank" style="text-decoration:none">Microsoft</a> Learn Student Ambassadors program, reached to Beta level, conducted 10+ events on topics like Azure and its technologies, cloud computing, and mentored 100s of students via other platforms as well like Hack TX. 
 </samp>
 </p>
@@ -22,7 +21,7 @@ As a community-driven individual sharing responsibility to serve and upskill the
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
-- 📝 I regularly write articles on Scaler Topics, [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12/articles), [Dev](https://dev.to/imsushant12), [HashNode](https://imsushant.hashnode.dev/) and [Medium](https://medium.com/@sushantgaurav57)
+- 📝 I regularly write articles on Scaler Topics, [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12/articles), [Dev](https://dev.to/imsushant12), [HashNode](https://imsushant.hashnode.dev/), and [Medium](https://medium.com/@sushantgaurav57)
 
 - 💬 Ask me about anything related to tech. I would love to share my thoughts.
 
