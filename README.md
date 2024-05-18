@@ -6,8 +6,7 @@
 
 <h1 align="center">💫Who Am I? <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="40px"></h1>
 
-I am currently working at PwC India as a Senior Analyst. I am an enthusiastic and goal-driven Software Developer with an experience in Development and Content Writing. Being a wordsmith who loves playing with words, I worked for organizations like Scaler and GeeksForGeeks. I documented my projects, learnings, and knowledge on various technical topics like C/C++, Python, Front end development, DBMS, OS, and open-source development to give back to my community and share the knowledge with those who desire to learn. As a community-driven individual sharing responsibility to serve and upskill the technical community, I joined the prestigious Microsoft Learn Student Ambassadors program, reached to Beta level, conducted 10+ events on topics like Azure and its technologies, cloud computing, and mentored 100s of students via other platforms as well like Hack TX. <br><br>I am currently learning Full Stack Web Development.
-
+I work as an Associate, Intelligent Automation at PwC India. I am an enthusiastic and goal-driven Software Developer with experience in Development and Content Writing. Being a wordsmith who loves playing with words, I worked for organisations like Scaler and GeeksForGeeks. I documented my projects, learnings, and knowledge on various technical topics like C/C++, Python, front-end development, DBMS, OS, and open-source development to give back to my community and share the knowledge with those who desire to learn. As a community-driven individual sharing responsibility to serve and upskill the technical community, I joined the prestigious Microsoft Learn Student Ambassadors program, reached the Beta level, conducted 10+ events on topics like Azure and its technologies, cloud computing, and mentored 100s of students via other platforms as well like Hack TX. <br><br>I am learning DevOps and Cloud Computing.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sushantgaurav57) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_im_sushant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-gaurav) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sushantgaurav57) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15053615) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_im_sushant) 
@@ -29,6 +28,7 @@ I am currently working at PwC India as a Senior Analyst. I am an enthusiastic an
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imsushant12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 
 
