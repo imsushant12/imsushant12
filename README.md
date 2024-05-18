@@ -5,8 +5,16 @@
 </p>
 
 <h1 align="center">💫Who Am I?</h1>
+I work as an Associate - Intelligent Automation at PwC India. I am an enthusiastic and goal-driven Software Developer with experience in Development and Content Writing.
+<br><br>
+My coding journey began with languages like C/C++, Java, and Python, and I've since expanded my expertise to encompass web development, database management systems (DBMS), computer networks, and operating systems. This technical foundation fuels my ability to write clear and concise code and explain it effectively to others through my articles.
 
-I work as an Associate, Intelligent Automation at PwC India. I am an enthusiastic and goal-driven Software Developer with experience in Development and Content Writing. Being a wordsmith who loves playing with words, I worked for organisations like Scaler and GeeksForGeeks. I documented my projects, learnings, and knowledge on various technical topics like C/C++, Python, front-end development, DBMS, OS, and open-source development to give back to my community and share the knowledge with those who desire to learn. As a community-driven individual sharing responsibility to serve and upskill the technical community, I joined the prestigious Microsoft Learn Student Ambassadors program, reached the Beta level, conducted 10+ events on topics like Azure and its technologies, cloud computing, and mentored 100s of students via other platforms as well like Hack TX. <br><br>I am learning DevOps and Cloud Computing.
+As a wordsmith who loves playing with words, I worked for organisations like Scaler, GeeksForGeeks, Board Infinity, and more. I documented my projects, learnings, and knowledge on various technical topics, such as C/C++, Java, Python, Web Development, DBMS, OS, Computer Networks, NLP, ML, AWS, Azure, and open-source development, to give back to my community and share the knowledge with those who desire to learn.
+
+My dedication to upskilling the tech community extends beyond articles. As a Microsoft Learn Student Ambassador (Beta level), I have conducted over ten events on Azure, cloud computing, open source development, and other relevant topics. Mentoring hundreds of students through platforms like Hack TX further demonstrates my passion for fostering a collaborative and knowledgeable tech landscape.
+
+I'm actively expanding my skillset by exploring DevOps and Cloud Computing. 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sushantgaurav57) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_im_sushant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-gaurav) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sushantgaurav57) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15053615) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_im_sushant) 
