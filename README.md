@@ -4,7 +4,7 @@
 <img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
 </p>
 
-<h1 align="center">💫Who Am I? <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="40px"></h1>
+<h1 align="center">💫Who Am I?</h1>
 
 I work as an Associate, Intelligent Automation at PwC India. I am an enthusiastic and goal-driven Software Developer with experience in Development and Content Writing. Being a wordsmith who loves playing with words, I worked for organisations like Scaler and GeeksForGeeks. I documented my projects, learnings, and knowledge on various technical topics like C/C++, Python, front-end development, DBMS, OS, and open-source development to give back to my community and share the knowledge with those who desire to learn. As a community-driven individual sharing responsibility to serve and upskill the technical community, I joined the prestigious Microsoft Learn Student Ambassadors program, reached the Beta level, conducted 10+ events on topics like Azure and its technologies, cloud computing, and mentored 100s of students via other platforms as well like Hack TX. <br><br>I am learning DevOps and Cloud Computing.
 
@@ -22,9 +22,6 @@ I work as an Associate, Intelligent Automation at PwC India. I am an enthusiasti
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imsushant12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=_im_sushant)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imsushant12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
