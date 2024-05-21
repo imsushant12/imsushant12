@@ -5,15 +5,17 @@
 </p>
 
 <h1 align="center">💫Who Am I?</h1>
-I work as an Associate - Intelligent Automation at PwC India. I am an enthusiastic and goal-driven Software Developer with experience in Development and Content Writing.
-<br><br>
-My coding journey began with languages like C/C++, Java, and Python, and I've since expanded my expertise to encompass web development, database management systems (DBMS), computer networks, and operating systems. This technical foundation fuels my ability to write clear and concise code and explain it effectively to others through my articles.
+<p>
+I'm an Associate in Intelligent Automation at PwC India and a passionate, target-oriented Software Developer. With a solid foundation in Development and Content Writing, my journey in programming began with languages like C/C++, Java, and Python.
 
-As a wordsmith who loves playing with words, I worked for organisations like [Scaler](https://www.scaler.com/topics/author/sushant-gaurav/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12), Board Infinity, and more to deliver more than 500 articles. I documented my projects, learnings, and knowledge on various technical topics, such as C/C++, Java, Python, Web Development, DBMS, OS, Computer Networks, NLP, ML, AWS, Azure, and open-source development, to give back to my community and share the knowledge with those who desire to learn.
+Over time, I have expanded my expertise to encompass web development, databases, computer networks, and operating systems. This solid technical base empowers me to write clear, concise code and explain complex concepts effectively through my writing.
 
-My dedication to upskilling the tech community extends beyond articles. As a Microsoft Learn Student Ambassador (Beta level), I have conducted over ten events on Azure, cloud computing, open source development, and other relevant topics. Mentoring hundreds of students through platforms like Hack TX further demonstrates my passion for fostering a collaborative and knowledgeable tech landscape.
+I'm not just a coder but also a writer. I've contributed over 500 articles to platforms like [Scaler](https://www.scaler.com/topics/author/sushant-gaurav/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12), Board Infinity, and many more covering a wide range of technical topics such as C/C++, Java, Python, Web Development, DBMS, Operating Systems, Computer Networks, NLP, ML, AWS, Azure, and open-source development. Through these efforts, I aim to support and inspire eager learners in the community.
 
-I'm actively expanding my skillset by exploring DevOps and Cloud Computing. 
+My dedication to the tech community extends beyond writing. As a Microsoft Learn Student Ambassador (Beta level), I've organised over ten events covering Azure, cloud computing, open-source development, and more. Mentoring students through platforms like Hack TX showcases my commitment towards a collaborative and knowledgeable tech environment.
+
+I am continuously expanding my DevOps and Cloud Computing skills to broaden my technical domain knowledge.
+</p>
 
 
 ## 🌐 Socials:
