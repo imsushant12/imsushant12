@@ -6,15 +6,17 @@
 
 <h1 align="center">💫Who Am I?</h1>
 <p>
-I'm an Associate in Intelligent Automation at PwC India and a passionate, target-oriented Software Developer. With a solid foundation in Development and Content Writing, my journey in programming began with languages like C/C++, Java, and Python.
+I'm a Technical Engineer and writer at SUSE with a strong passion for data engineering, data analytics, cloud-native platforms, automation, and backend development. My expertise lies in optimizing workflows, enhancing system performance, and utilizing data-driven insights to improve operational efficiency.  
 
-Over time, I have expanded my expertise to encompass web development, databases, computer networks, and operating systems. This solid technical base empowers me to write clear, concise code and explain complex concepts effectively through my writing.
+At SUSE, I collaborate with engineering teams to improve data integrity, accessibility, and platform efficiency. I analyze system logs, performance metrics, and workflows using SQL, Python, and visualization tools. I focus on automating data pipelines, optimizing cloud platforms, and ensuring system reliability.  
 
-I'm not just a coder but also a writer. I've contributed over 500 articles to platforms like [Scaler](https://www.scaler.com/topics/author/sushant-gaurav/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12), Board Infinity, and many more covering a wide range of technical topics such as C/C++, Java, Python, Web Development, DBMS, Operating Systems, Computer Networks, NLP, ML, AWS, Azure, and open-source development. Through these efforts, I aim to support and inspire eager learners in the community.
+Previously, as an Associate Engineer at PwC India, I worked on Python, Microsoft Power Platform, NodeJS, Generative AI, and SQL, automating workflows and developing scalable data solutions. I also built Azure data pipelines and dashboards and created web applications.  
 
-My dedication to the tech community extends beyond writing. As a Microsoft Learn Student Ambassador (Beta level), I've organised over ten events covering Azure, cloud computing, open-source development, and more. Mentoring students through platforms like Hack TX showcases my commitment towards a collaborative and knowledgeable tech environment.
+I'm not just an engineer but also a writer. I've contributed 1000+ articles to platforms like [Scaler](https://www.scaler.com/topics/author/sushant-gaurav/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12), and SigNoz, covering topics such as data engineering, cloud computing, backend development, DevOps, databases, operating systems, computer networking, and open-source tools. Through my writing, I aim to simplify complex technical concepts and make learning accessible to a wider audience.  
 
-I am continuously expanding my DevOps and Cloud Computing skills to broaden my technical domain knowledge.
+Beyond engineering and writing, I have been actively involved in mentorship and open-source contributions. As a Microsoft Learn Student Ambassador (Beta), I've organized Azure and cloud computing events, and I've led multiple open-source projects as an administrator, mentor, and contributor.  
+
+I am continuously expanding my knowledge in DevOps, cloud computing, and data engineering** to drive innovation and efficiency in modern tech ecosystems.  
 </p>
 
 
