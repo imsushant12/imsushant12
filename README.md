@@ -6,17 +6,17 @@
 
 <h1 align="center">💫Who Am I?</h1>
 <p>
-I'm a Technical Engineer and writer at SUSE with a strong passion for data engineering, data analytics, cloud-native platforms, automation, and backend development. My expertise lies in optimizing workflows, enhancing system performance, and utilizing data-driven insights to improve operational efficiency.  
+I'm a Technical Engineer and writer at SUSE with a strong passion for data engineering, data analytics, cloud-native platforms, automation, and backend development. My expertise lies in optimising workflows, enhancing system performance, and utilising data-driven insights to improve operational efficiency.  
 
-At SUSE, I collaborate with engineering teams to improve data integrity, accessibility, and platform efficiency. I analyze system logs, performance metrics, and workflows using SQL, Python, and visualization tools. I focus on automating data pipelines, optimizing cloud platforms, and ensuring system reliability.  
+At SUSE, I collaborate with engineering teams to improve data integrity, accessibility, and platform efficiency. I analyse system logs, performance metrics, and workflows using SQL, Python, and visualisation tools. I focus on automating data pipelines, optimising cloud platforms, and ensuring system reliability.  
 
 Previously, as an Associate Engineer at PwC India, I worked on Python, Microsoft Power Platform, NodeJS, Generative AI, and SQL, automating workflows and developing scalable data solutions. I also built Azure data pipelines and dashboards and created web applications.  
 
 I'm not just an engineer but also a writer. I've contributed 1000+ articles to platforms like [Scaler](https://www.scaler.com/topics/author/sushant-gaurav/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12), and SigNoz, covering topics such as data engineering, cloud computing, backend development, DevOps, databases, operating systems, computer networking, and open-source tools. Through my writing, I aim to simplify complex technical concepts and make learning accessible to a wider audience.  
 
-Beyond engineering and writing, I have been actively involved in mentorship and open-source contributions. As a Microsoft Learn Student Ambassador (Beta), I've organized Azure and cloud computing events, and I've led multiple open-source projects as an administrator, mentor, and contributor.  
+Beyond engineering and writing, I have been actively involved in mentorship and open-source contributions. As a Microsoft Learn Student Ambassador (Beta), I've organised Azure and cloud computing events, and I've led multiple open-source projects as an administrator, mentor, and contributor.  
 
-I am continuously expanding my knowledge in DevOps, cloud computing, and data engineering** to drive innovation and efficiency in modern tech ecosystems.  
+I am continuously expanding my knowledge in DevOps, cloud computing, and data engineering to drive innovation and efficiency in modern tech ecosystems.  
 </p>
 
 
@@ -37,10 +37,3 @@ I am continuously expanding my knowledge in DevOps, cloud computing, and data en
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imsushant12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-
-
-
-
-
