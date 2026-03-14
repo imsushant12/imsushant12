@@ -1,39 +1,147 @@
-<h1 align="center">Hi there, I'm Sushant &nbsp; <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"</h1>
+<h1 align="center">Hi there, I'm Sushant &nbsp; <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"></h1>
 
-<p align="center"> 
-<img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
 </p>
 
-<h1 align="center">💫Who Am I?</h1>
-<p>
-I'm a Technical Engineer and writer at SUSE with a strong passion for data engineering, data analytics, cloud-native platforms, automation, and backend development. My expertise lies in optimising workflows, enhancing system performance, and utilising data-driven insights to improve operational efficiency.  
-
-At SUSE, I collaborate with engineering teams to improve data integrity, accessibility, and platform efficiency. I analyse system logs, performance metrics, and workflows using SQL, Python, and visualisation tools. I focus on automating data pipelines, optimising cloud platforms, and ensuring system reliability.  
-
-Previously, as an Associate Engineer at PwC India, I worked on Python, Microsoft Power Platform, NodeJS, Generative AI, and SQL, automating workflows and developing scalable data solutions. I also built Azure data pipelines and dashboards and created web applications.  
-
-I'm not just an engineer but also a writer. I've contributed 1000+ articles to platforms like [Scaler](https://www.scaler.com/topics/author/sushant-gaurav/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12), and SigNoz, covering topics such as data engineering, cloud computing, backend development, DevOps, databases, operating systems, computer networking, and open-source tools. Through my writing, I aim to simplify complex technical concepts and make learning accessible to a wider audience.  
-
-Beyond engineering and writing, I have been actively involved in mentorship and open-source contributions. As a Microsoft Learn Student Ambassador (Beta), I've organised Azure and cloud computing events, and I've led multiple open-source projects as an administrator, mentor, and contributor.  
-
-I am continuously expanding my knowledge in DevOps, cloud computing, and data engineering to drive innovation and efficiency in modern tech ecosystems.  
+<p align="center">
+Platform Engineering • Cloud Native • Kubernetes • Python • Open Source • AI Systems
 </p>
 
+### 💫 Who Am I?
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sushantgaurav57) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_im_sushant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-gaurav) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sushantgaurav57) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15053615) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_im_sushant) 
+I'm a **Technical Engineer and Open Source Contributor at SUSE**, working in the **cloud-native ecosystem** with a focus on **platform engineering, Kubernetes infrastructure, automation, and developer tooling**.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat" alt="imsushant12" /></p>
+At **SUSE**, I work closely with engineering teams to improve **system reliability, platform efficiency, and developer workflows**. My work involves analyzing system behavior, automating operational processes, and improving tooling using **Python, cloud-native technologies, and modern DevOps practices**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imsushant12&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imsushant12&theme=blueberry&hide_border=false)<br/>
+Previously, I worked at **PwC India** as an Associate Engineer, where I built **data platforms, automation workflows, and analytics solutions** using Python, NodeJS, Microsoft Power Platform, SQL, and cloud technologies.
+
+Beyond engineering, I'm also a **technical writer passionate about knowledge sharing**. I have written **1000+ technical articles** across platforms like [**Scaler**](https://www.scaler.com/topics/author/sushant-gaurav/), [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/imsushant12), and **SigNoz**, covering topics such as:
+
+- Cloud Computing
+- Backend Engineering
+- Databases
+- Operating Systems
+- Computer Networking
+- DevOps & Open Source
+
+Through my writing, I aim to **simplify complex technical concepts and make engineering knowledge accessible to developers worldwide**.
+
+I’m currently focused on **deepening my expertise in cloud-native systems, distributed infrastructure, and AI-powered developer platforms**.
+
+## 🚀 Current Focus
+
+• Cloud Native Platform Engineering  
+• Kubernetes Ecosystem & Infrastructure  
+• Python-based Developer Tooling  
+• Distributed Systems  
+• AI-powered engineering tools  
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-gaurav)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/_im_sushant)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/imsushant12)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sushantgaurav57)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15053615)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/imsushant12)
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat"/>
+</p>
+
+## 💻 Tech Stack
+
+### Languages
+Python • C • C++ • JavaScript
+
+### Cloud & Platform
+AWS • Kubernetes • Docker • Linux • Cloud Native • CI/CD
+
+### Backend & APIs
+FastAPI • Flask • NodeJS • REST APIs
+
+### Databases
+MySQL • MongoDB
+
+### Data & Analytics
+NumPy • Pandas • Matplotlib • scikit-learn
+
+### Developer Tools
+Git • GitHub • Postman
+
+## 🌍 Open Source Contributions
+
+I actively contribute to the open-source ecosystem, particularly in the **cloud-native and infrastructure space**.
+
+Key areas:
+
+• Kubernetes ecosystem tools  
+• Documentation and developer tooling  
+• Cloud-native infrastructure projects  
+• Automation and CLI tooling
+
+I believe open source is one of the best ways to **learn, collaborate, and give back to the engineering community.**
+
+## 🔧 Featured Engineering Projects
+
+### 💻 Longhorn – Cloud Native Distributed Storage
+Contributor to the Longhorn ecosystem - an open-source cloud-native distributed block storage system designed for Kubernetes.
+
+Contributing to tooling, documentation, and ecosystem improvements within the Longhorn project.
+
+**Tech**:
+Kubernetes • Cloud Native • Distributed Systems • Go • Documentation
+
+GitHub:
+- [Repository - 1](https://github.com/longhorn/longhorn)
+- [Repository - 2](https://github.com/longhorn/website)
+
+### 📚 Docbuild – Documentation Build Automation
+Contributor to Docbuild, a Python-based CLI tool used for building, validating, and managing documentation pipelines.
+
+Focused on improving documentation automation and build workflows.
+
+**Tech**:
+Python • CLI Tooling • Automation • Documentation Infrastructure
+
+GitHub:
+- [Repository](https://github.com/openSUSE/docbuild)
+
+### 🤖 JARVIS – Python Virtual Assistant
+A voice-controlled virtual assistant built using Python that automates everyday tasks such as searching the web, fetching weather updates, playing music, and launching applications.
+
+**Tech**:
+Python • APIs • Automation • Speech Recognition • Web Scraping
+
+GitHub:
+- [Repository](https://github.com/imsushant12/Virtual-Assistant-JARVIS)
+
+### 🛒 UnTuned – Flask E-Commerce Web Application
+A web application built with Flask that provides user authentication, product browsing, and secure shopping functionality.
+
+**Tech**:
+Python • Flask • REST APIs • SQLAlchemy • JavaScript
+
+GitHub:
+- [Repository](https://github.com/Fanatic-Coders/UnTuned)
+
+## 🧠 Engineering Philosophy
+
+I believe great engineering is about:
+
+• Building reliable systems  
+• Automating repetitive work  
+• Sharing knowledge with the community  
+• Continuously learning and improving
+
+My goal is to contribute to the **cloud-native ecosystem** by building tools that improve developer productivity and platform reliability.
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=imsushant12&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=imsushant12&theme=blueberry&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imsushant12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imsushant12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
