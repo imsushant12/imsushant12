@@ -1,41 +1,40 @@
-<h1 align="center">Hi there, I'm Sushant &nbsp; <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"></h1>
+<h1 align="center">Hi there, I'm Sushant &nbsp; <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="45"></h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
+  <b>Software Engineer — Cloud, Platform & DevEx @ SUSE</b> <br>
+  Python • Go • Kubernetes • Cloud Native Infrastructure • CNCF Contributor
 </p>
 
 <p align="center">
-Platform Engineering • Cloud Native • Kubernetes • Python • Open Source • AI Systems
+  <a href="https://linkedin.com/in/sushant-gaurav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sushant-suse"><img src="https://img.shields.io/badge/Work_GitHub-SUSE-%230C322C.svg?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://dev.to/imsushant12"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
+  <a href="https://twitter.com/_im_sushant"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@sushantgaurav57"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/15053615"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
-### 💫 Who Am I?
+> 🏢 **Enterprise & CNCF Contributions:** Looking for my official enterprise commits, open-source pull requests, and SUSE organization activity? Visit my work profile: **[@sushant-suse](https://github.com/sushant-suse)**.
 
-I'm a **Technical Engineer and Open Source Contributor at SUSE**, working in the **cloud-native ecosystem** with a focus on **platform engineering, Kubernetes infrastructure, automation, and developer tooling**.
+### 💫 About Me
 
-At **SUSE**, I work closely with engineering teams to improve **system reliability, platform efficiency, and developer workflows**. My work involves analyzing system behavior, automating operational processes, and improving tooling using **Python, cloud-native technologies, and modern DevOps practices**.
+I am a **Software Engineer at SUSE** specialising in **Cloud-Native Systems, Platform Engineering, Kubernetes Infrastructure, and Developer Experience (DevEx) Tooling**. 
 
-Previously, I worked at **PwC India** as an Associate Engineer, where I built **data platforms, automation workflows, and analytics solutions** using Python, NodeJS, Microsoft Power Platform, SQL, and cloud technologies.
+I focus on architecting resilient software systems and internal platform tools that eliminate developer friction, automate complex multi-repository workflows, and scale infrastructure operations.
 
-Beyond engineering, I'm also a **technical writer passionate about knowledge sharing**. I have written **1000+ technical articles** across platforms like [**Scaler**](https://www.scaler.com/topics/author/sushant-gaurav/), [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/imsushant12), and **SigNoz**, covering topics such as:
+* 🔭 **Current Engineering Focus:** Deepening Go-based Kubernetes Controller development, CNCF storage engine internals (`Longhorn`), and high-performance DevEx automation pipelines.
+* ⚡ **Core Strengths:** Go, Python (AST / NLP), Kubernetes (CRDs/Controllers), Distributed Systems, CI/CD Infrastructure, and Developer Platform Automation.
+* 🛡️ **Community & Moderation:** Dev.to Moderator & Trusted Member, actively curating technical content and publishing deep-dive post-mortems on systems engineering, Kubernetes, and developer tooling.
+* 📜 **Previous Tenure:** Ex-**PwC India** (Associate Engineer / Senior Data Analyst), where I engineered scalable data platforms, automated ETL pipelines, and backend integration APIs.
 
-- Cloud Computing
-- Backend Engineering
-- Databases
-- Operating Systems
-- Computer Networking
-- DevOps & Open Source
+### 🛠️ Technical Stack
 
-Through my writing, I aim to **simplify complex technical concepts and make engineering knowledge accessible to developers worldwide**.
-
-I’m currently focused on **deepening my expertise in cloud-native systems, distributed infrastructure, and AI-powered developer platforms**.
-
-## 🚀 Current Focus
-
-• Cloud Native Platform Engineering  
-• Kubernetes Ecosystem & Infrastructure  
-• Python-based Developer Tooling  
-• Distributed Systems  
-• AI-powered engineering tools  
+```text
+Languages           : Golang, Python, Bash, C, C++, SQL, JavaScript
+Cloud & Platform    : Kubernetes (Controllers/CRDs), Docker, Linux, CI/CD (GitHub Actions), Cloud Native (CNCF)
+DevEx & Systems     : AST Parsing, NLP (spaCy), Typer CLI, Vale Linter, Antora, Git/GitHub Automation
+Backend & Storage   : REST APIs, FastAPI, Flask, PostgreSQL, MySQL
+```
 
 ## 🌐 Connect With Me
 
@@ -44,104 +43,54 @@ I’m currently focused on **deepening my expertise in cloud-native systems, dis
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/imsushant12)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sushantgaurav57)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15053615)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/imsushant12)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sushant-suse)
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat"/>
-</p>
+### 🔧 Featured Engineering Projects
 
-## 💻 Tech Stack
+#### 🛠️ [Transpiler-Pro](https://github.com/openSUSE/transpiler-pro) — Enterprise Documentation Pipeline
 
-### Languages
-Python • C • C++ • JavaScript
+*An enterprise-grade Python/AST/NLP automation pipeline designed to transform, heal, and audit legacy Markdown into Antora-compliant AsciiDoc.*
 
-### Cloud & Platform
-AWS • Kubernetes • Docker • Linux • Cloud Native • CI/CD
+* **Key Achievements:** Architected AST shielding engines, NLP-driven tense repair (`spaCy`), and a Set-Theory parity validator that reduced audit execution runtime from **20 minutes to under 15 seconds**.
+* **Impact:** Adopted directly from personal repository into the official **openSUSE** GitHub organization.
+* **Tech:** Python, `spaCy` NLP, AST Parsing, Typer CLI, `uv`, GitHub Actions, Vale.
 
-### Backend & APIs
-FastAPI • Flask • NodeJS • REST APIs
+#### 💻 [Longhorn](https://github.com/longhorn/longhorn) — CNCF Cloud-Native Distributed Storage
 
-### Databases
-MySQL • MongoDB
+*Contributor to Longhorn, an open-source cloud-native distributed block storage system built for Kubernetes.*
 
-### Data & Analytics
-NumPy • Pandas • Matplotlib • scikit-learn
+* **Focus:** Contributing bug fixes, ecosystem tooling, CLI maintenance, and controller logic across core Longhorn repositories.
+* **Tech:** Go, Kubernetes, Distributed Systems, Cloud Native Storage.
+* **Repositories:** [longhorn/longhorn](https://github.com/longhorn/longhorn?utm_source=gemini) • [longhorn/website](https://github.com/longhorn/website?utm_source=gemini)
 
-### Developer Tools
-Git • GitHub • Postman
+#### 📚 [DocBuild](https://github.com/openSUSE/docbuild) — Multi-Repo Documentation Orchestration
 
-## 🌍 Open Source Contributions
+*A Python-based CLI tool used to build, validate, and manage complex multi-repository documentation pipelines.*
 
-I actively contribute to the open-source ecosystem, particularly in the **cloud-native and infrastructure space**.
+* **Focus:** Improving build velocity, cross-repo synchronisation, and developer tooling infrastructure across openSUSE ecosystems.
+* **Tech:** Python, CLI Infrastructure, DevOps Automation, openSUSE Systems.
 
-Key areas:
+#### 🤖 [JARVIS](https://github.com/imsushant12/Virtual-Assistant-JARVIS) — Python Automation Engine
 
-• Kubernetes ecosystem tools  
-• Documentation and developer tooling  
-• Cloud-native infrastructure projects  
-• Automation and CLI tooling
+*A modular Python virtual assistant built to automate everyday developer tasks, system triggers, web scraping, and media workflows.*
 
-I believe open source is one of the best ways to **learn, collaborate, and give back to the engineering community.**
+* **Tech:** Python, Speech Recognition, REST APIs, Automation.
 
-## 🔧 Featured Engineering Projects
+---
 
-### 💻 Longhorn – Cloud Native Distributed Storage
-Contributor to the Longhorn ecosystem - an open-source cloud-native distributed block storage system designed for Kubernetes.
+### ✍️ DevEx & Technical Knowledge Sharing
 
-Contributing to tooling, documentation, and ecosystem improvements within the Longhorn project.
+Beyond core systems engineering, I leverage my technical background to simplify complex computing topics and improve developer onboarding. I have authored **1,000+ technical articles** covering Cloud Computing, Operating Systems, Computer Networking, Databases, and DevOps across major technical platforms:
 
-**Tech**:
-Kubernetes • Cloud Native • Distributed Systems • Go • Documentation
+* **[Dev.to Profile](https://dev.to/imsushant12)** *(Moderator & Trusted Member)*
+* **[Scaler Topics](https://www.scaler.com/topics/author/sushant-gaurav)**
+* **[GeeksForGeeks](https://auth.geeksforgeeks.org/user/imsushant12)**
+* **SigNoz & Medium**
 
-GitHub:
-- [Repository - 1](https://github.com/longhorn/longhorn)
-- [Repository - 2](https://github.com/longhorn/website)
-
-### 📚 Docbuild – Documentation Build Automation
-Contributor to Docbuild, a Python-based CLI tool used for building, validating, and managing documentation pipelines.
-
-Focused on improving documentation automation and build workflows.
-
-**Tech**:
-Python • CLI Tooling • Automation • Documentation Infrastructure
-
-GitHub:
-- [Repository](https://github.com/openSUSE/docbuild)
-
-### 🤖 JARVIS – Python Virtual Assistant
-A voice-controlled virtual assistant built using Python that automates everyday tasks such as searching the web, fetching weather updates, playing music, and launching applications.
-
-**Tech**:
-Python • APIs • Automation • Speech Recognition • Web Scraping
-
-GitHub:
-- [Repository](https://github.com/imsushant12/Virtual-Assistant-JARVIS)
-
-### 🛒 UnTuned – Flask E-Commerce Web Application
-A web application built with Flask that provides user authentication, product browsing, and secure shopping functionality.
-
-**Tech**:
-Python • Flask • REST APIs • SQLAlchemy • JavaScript
-
-GitHub:
-- [Repository](https://github.com/Fanatic-Coders/UnTuned)
-
-## 🧠 Engineering Philosophy
-
-I believe great engineering is about:
-
-• Building reliable systems  
-• Automating repetitive work  
-• Sharing knowledge with the community  
-• Continuously learning and improving
-
-My goal is to contribute to the **cloud-native ecosystem** by building tools that improve developer productivity and platform reliability.
-
-## 📊 GitHub Stats
+### 📊 GitHub Activity & Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=imsushant12&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imsushant12&theme=blueberry&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
