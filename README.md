@@ -36,15 +36,6 @@ DevEx & Systems     : AST Parsing, NLP (spaCy), Typer CLI, Vale Linter, Antora, 
 Backend & Storage   : REST APIs, FastAPI, Flask, PostgreSQL, MySQL
 ```
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-gaurav)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/_im_sushant)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/imsushant12)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sushantgaurav57)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15053615)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/sushant-suse)
-
 ### 🔧 Featured Engineering Projects
 
 #### 🛠️ [Transpiler-Pro](https://github.com/openSUSE/transpiler-pro) — Enterprise Documentation Pipeline
