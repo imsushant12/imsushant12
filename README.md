@@ -17,12 +17,12 @@
 
 ### 💫 About Me
 
-I'm a Technical Engineer at SUSE, working across Kubernetes-native infrastructure, developer tooling, and CI/CD automation - currently contributing to **[Longhorn](https://github.com/longhorn/longhorn)**, CNCF's cloud-native distributed storage project, and building internal platform tooling across the SUSE engineering ecosystem.
+I'm a Technical Engineer at [SUSE](https://www.suse.com), working across Kubernetes-native infrastructure, developer tooling, and CI/CD automation - currently contributing to **[Longhorn](https://github.com/longhorn/longhorn)**, CNCF's cloud-native distributed storage project, and building internal platform tooling across the SUSE engineering ecosystem.
 
 - 🔭 **Currently:** deepening Kubernetes controller/reconciliation internals, Go, and Longhorn's core architecture - volumes, replicas, CSI, snapshot/backup lifecycle - alongside ongoing contributions to **[DocBuild](https://github.com/openSUSE/docbuild)**, a Python CLI for documentation build/validation across the SUSE ecosystem.
-- 🛠️ **Built & shipped:** Transpiler-Pro (sole developer, now under the openSUSE org) and CI/CD automation via GitHub Actions, including a Vale-based style-validation workflow.
+- 🛠️ **Built & shipped:** [Transpiler-Pro](https://github.com/openSUSE/transpiler-pro) (now under the openSUSE org) and CI/CD automation via GitHub Actions, including a Vale-based style-validation workflow.
 - 🧠 **Exploring:** LLM + vector-retrieval systems for technical documentation search.
-- 📜 **Before SUSE:** Associate Engineer at PwC India - Python/SQL data pipelines, PySpark validation, Azure pipelines, and Power BI analytics across multiple client engagements.
+- 📜 **Before SUSE:** Associate Engineer at [PwC](https://www.pwc.in/) India - Python/SQL data pipelines, PySpark validation, Azure pipelines, and Power BI analytics across multiple client engagements.
 
 ### 🛠️ Tech Stack
 
